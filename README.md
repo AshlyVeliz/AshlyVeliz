@@ -23,9 +23,9 @@
 const ashly = {
   nombre:      "Ashly Veliz",
   ubicacion:   "Perú 🇵🇪",
-  rol:         "Estudiante de Computación en UTEC 💻",
+  rol:         "Estudiante de Ciencias de la computación en UTEC 💻",
   aprendiendo: ["Bases de datos", "Backend + DevOps", "AWS ☁️"],
-  colorFavorito: "#FF69B4 💖",
+  colorFavorito: "#FF69B4",
   datoCurioso: "Hice arqueología con Git en el archivo 2031 🕵️‍♀️",
 };
 ```
