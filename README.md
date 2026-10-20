@@ -44,7 +44,6 @@ const ashly = {
 | 🤝 **mutuals** | Colaboradora backend / DevOps | Despliegue en AWS (EC2 + RDS) con perfil de producción, CI con GitHub Actions, script de pruebas end-to-end (registro, login, roles, notificaciones, rotación de tokens, emails) y documentación |
 | 🗄️ **dbms-go** | Colaboradora | Corrección de un bug de *overflow* en un motor de base de datos |
 | 🎬 **Streaming-Platform** | Desarrolladora | Plataforma de búsqueda y visualización de películas en C++ (Programación 3) |
-| 🌳 **OriAshJhan** | Desarrolladora | Motor de ramificación *Tuckersoft Branch Engine* en Java ⭐⭐⭐⭐⭐ |
 | 🏆 **Hackathon 0** | Grupo 5 | Proyecto de hackathon en Python y CSS |
 
 </details>
@@ -54,7 +53,7 @@ const ashly = {
 <br>
 
 - 🎓 **Ciencia de la Computación** — UTEC, Perú
-- 📚 Cursos: Algoritmos y Estructuras de Datos, Programación 3, Bases de Datos 2, Desarrollo Basado en Plataformas
+- 📚 Cursos: Algoritmos y Estructuras de Datos, Programación 3, Bases de Datos 2, Desarrollo Basado en Plataformas 
 - 🗺️ Mira mi malla curricular interactiva en [**Malla_Ashly**](https://github.com/AshlyVeliz/Malla_Ashly)
 
 </details>
