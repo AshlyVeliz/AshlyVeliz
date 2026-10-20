@@ -32,7 +32,7 @@ const ashly = {
 
 ---
 
-## 🎀 CV interactivo
+## 🎀 MI CV:
 > Haz clic en cada sección para desplegarla ✨
 
 <details>
